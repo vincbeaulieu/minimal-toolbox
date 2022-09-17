@@ -6,5 +6,5 @@ pip install git+https://github.com/vincbeaulieu/minimal-toolbox.git
 ```
   
 **Import does not work using the "pip install" method, yet...**  
-## Workaround:  
+### Workaround:  
 Simply install the toolbox.py file in your workspace to use it.  
